@@ -15,3 +15,7 @@ alors que la seconde sera utilisée pour faire le *sensing* de l'objet. Les bobi
  Voir la figure ci-dessous pour une représentation visuelle du système.
 ![](images/1-s2.0-S0924424713004615-gr2.jpg)
 
+
+
+https://www.youtube.com/watch?v=yjW0zDhxN1o&ab_channel=ZurichInstruments
+
